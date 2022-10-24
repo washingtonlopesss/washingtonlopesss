@@ -3,10 +3,10 @@
 ###
 
 <div align="left">
-  <a href="mailto:washingtonlopes2003@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  <a href="mailto:washingtonlopes2003@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"/></a>
+  <a href="https://www.linkedin.com/in/washingtonlopess/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/></a>
+  <a href="https://www.instagram.com/washingtonlopesss/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"/></a>
+  <a href="https://wa.me/5511912556446"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"/></a>
 </div>
 
 ### 💻 Front End Developer Jr
@@ -35,5 +35,3 @@
   <a href="https://github.com/washingtonlopesss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=washingtonlopesss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
-
-#
