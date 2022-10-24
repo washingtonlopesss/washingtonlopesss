@@ -1,6 +1,4 @@
-### Hi there 👋
-
-e some ideas to get you started:
+## Hi👋! My name is Washington Lopes
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
