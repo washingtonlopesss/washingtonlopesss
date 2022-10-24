@@ -1,4 +1,7 @@
-# Hi👋! My name is Washington Lopes
+<h1 align="center"> Hi👋! My name is Washington Lopes
+
+###
+
 <div align="center">
   <a href="https://github.com/washingtonlopesss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=washingtonlopesss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -13,5 +16,5 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
 </div>
 
+![Snake animation](https://github.com/rafaballerini/washingtonlopesss/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://raw.githubusercontent.com/was/was/blob/output/snake.svg" alt="Snake animation" />
