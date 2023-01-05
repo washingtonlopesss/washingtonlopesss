@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=washington.washington&left_color=firebrick&right_color=darkmagenta&left_text=Visualizações"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=washington.washington&left_color=firebrick&right_color=darkmagenta&left_text=Profile views"  />
 
 ###
 
@@ -52,4 +52,3 @@
 </div>
 
 ###
-Profile Readme Generator
