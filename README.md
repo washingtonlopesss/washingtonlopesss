@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="800" src="https://media.discordapp.net/attachments/1042248811038396458/1060428949378842674/Washington_Lopes.png?width=277&height=554"  />
+<img align="right" height="800" src="https://cdn.discordapp.com/attachments/1042248811038396458/1060428949378842674/Washington_Lopes.png"  />
 
 ###
 
