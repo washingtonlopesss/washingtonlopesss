@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="600" src="https://cdn.discordapp.com/attachments/1042248811038396458/1060407785973624972/Washington_Lopes.png"  />
+<img align="right" height="650" src="https://cdn.discordapp.com/attachments/1042248811038396458/1060407785973624972/Washington_Lopes.png"  />
 
 ###
 
@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&username=washingtonlopesss" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&username=washingtonlopesss" height="150" alt="stats graph"  />
 </div>
 
 ###
