@@ -32,3 +32,6 @@
   <a href="https://github.com/washingtonlopesss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=washingtonlopesss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
+
+  
+  <img src="https://cdn.discordapp.com/attachments/1042248811038396458/1060407785973624972/Washington_Lopes.png">
