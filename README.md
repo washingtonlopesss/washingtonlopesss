@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=washington.washington&left_color=firebrick&right_color=darkmagenta&left_text=Profile views"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=washingtonlopesss.washingtonlopesss&left_color=firebrick&right_color=darkmagenta&left_text=Profile views"  />
 
 ###
 
@@ -47,7 +47,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&username=washington" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&username=washingtonlopesss" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=radical&hide_border=true&username=washingtonlopesss" height="150" alt="languages graph"  />
 </div>
 
