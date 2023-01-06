@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">👨‍💻Junior Front End Developer<br>🎓CST in Analise e Desenvolvimento de Sistemas By Universidade Paulista<br>💻Currently studying Javascript/ React<br>🚩I live in São Paulo ZS</p>
+<p align="left">👨‍💻Junior Front End Developer<br>🎓CST in Análise e Desenvolvimento de Sistemas By Universidade Paulista<br>💻Currently studying Javascript/ React<br>🚩I live in São Paulo ZS</p>
 
 ###
 
