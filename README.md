@@ -2,8 +2,6 @@
 
 <img align="right" height="800" src="https://cdn.discordapp.com/attachments/1042248811038396458/1060433500576165928/fdfadfvas.png"  />
 
-###
-
 <br>
 
 <h1 align="center">Olá, me chamo Washington Lopes</h1>
