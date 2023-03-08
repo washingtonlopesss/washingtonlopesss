@@ -1,24 +1,11 @@
 <br clear="both">
 
-<img align="right" height="800" src="https://cdn.discordapp.com/attachments/1042248811038396458/1060433500576165928/fdfadfvas.png"  />
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=4280F7&center=true&vCenter=true&width=800&height=30&lines=Hello%2C+my+name+is+Washington+Lopes;I+am+Junior+Full+Stack+Developer;I+am+Systems+Assistant)](https://git.io/typing-svg)
+</div>
 
 <br>
-
-<h1 align="center">Olá, me chamo Washington Lopes</h1>
-
-###
-
-<img align="center" src="https://komarev.com/ghpvc/?username=washingtonlopesss&left_color=firebrick&right_color=darkmagenta&left" alt="Visualizações de perfil" />
-
-###
-
-<p align="left">👨‍💻Junior Front End Developer<br>🎓CST in Análise e Desenvolvimento de Sistemas By Universidade Paulista<br>💻Currently studying Javascript/ React<br>🚩I live in São Paulo ZS</p>
-
-###
-
-<h2 align="left">Contato</h2>
-
-###
 
 <div align="center">
   <a href="mailto:washingtonlopes2003@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
@@ -27,25 +14,31 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
+  
+<br>
 
-###
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+<div align="center">
+ 
+ 
+  <br>
 
-<h2 align="left">Tecnologias</h2>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{washingtonlopesss}/count.svg" /></p> 
 
-###
+
+<br>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&username=washingtonlopesss" height="200" alt="stats graph"  />
+  </div>
+
+  <br>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=1000&color=4280F7&center=true&vCenter=true&repeat=false&width=800&lines=+Technologies)](https://git.io/typing-svg)
+  
+<div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&username=washingtonlopesss" height="160" alt="stats graph"  />
-</div>
-
-###
