@@ -1,11 +1,6 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?height=150&type=waving&color=0:141321,100:a82da8)
-
-  </div>
-
-
-<div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&color=4280F7&center=true&vCenter=true&width=800&height=30&lines=Hello%2C+my+name+is+Washington+Lopes;I+am+Junior+Full+Stack+Developer;I+am+Systems+Assistant)](https://git.io/typing-svg)
 </div>
