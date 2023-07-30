@@ -50,5 +50,5 @@
 
 </div>
 
-![snake gif](https://github.com/Washingtonlopesss/washingtonlopesss/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Washingtonlopesss/Washingtonlopesss/blob/output/github-contribution-grid-snake.svg)
 
