@@ -49,3 +49,7 @@
   ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:141321,100:a82da8)
 
 </div>
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
+
