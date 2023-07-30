@@ -49,7 +49,8 @@
   ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:141321,100:a82da8)
 
 </div>
-
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+<a href="https://github.com/washingtonlopesss">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerNerves&layout=compact&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=1f6feb&hide_border=true"/>
+</a>
 
 
