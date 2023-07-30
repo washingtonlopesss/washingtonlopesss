@@ -35,6 +35,8 @@
   <br>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=1000&color=4280F7&center=true&vCenter=true&repeat=false&width=800&lines=+Technologies)](https://git.io/typing-svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=washingtonlopesss&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
   
 <div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
