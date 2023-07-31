@@ -29,10 +29,9 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=washingtonlopesss&theme=transparent"  />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=washingtonlopesss&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
