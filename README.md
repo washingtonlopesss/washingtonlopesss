@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="mailto:washingtonlopes2003@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" width="135" alt="gmail logo"></a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" width="135" alt="linkedin logo">
+  <a href="linkedin.com/in/washingtonlopess"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" width="135" alt="linkedin logo"></a>
+  
 </p>
 
 <p align="center">
