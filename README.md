@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lisu+Bosa&weight=700&size=40&duration=3500&pause=1000&color=D9DDF7&center=true&vCenter=true&repeat=true&width=670&height=80&lines=Ol%C3%A1%2C+mundo!!;Meu+Nome+%C3%A9+Washington;Sou+desenvolvedor+e+estudante+de+ADS" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&center=true&vCenter=true&random=false&width=680&height=80&lines=Hello+World!+%3A);My+Name's+Washington+Lopes;I+am+Backend+Developer" alt="Typing SVG">
 </p>
 
 <p align="center">
