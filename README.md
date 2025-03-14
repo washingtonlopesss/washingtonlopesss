@@ -4,16 +4,11 @@
 
 Sou **Washington Lopes**, um **Desenvolvedor Backend** apaixonado por **.NET** e Bancos de Dados **SQL**. Ao longo da minha jornada, venho desenvolvendo soluções eficientes, com ênfase na performance e escalabilidade.
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/washington-lopes/">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:washington.lopes@nwadv.com.br">
-        <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-</div>
+<p align="center">
+  <a href="mailto:washingtonlopes2003@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" width="135" alt="gmail logo"></a>
+  <a href="https://www.linkedin.com/in/washingtonlopess/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" width="135" alt="linkedin logo"></a>
 
-#
+</p>
 
 > "O trabalho árduo vence o talento quando o talento não trabalha duro."  
 > _– Kevin Durant_
