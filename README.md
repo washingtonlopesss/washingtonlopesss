@@ -4,7 +4,7 @@
 
 Sou **Washington Lopes**, um **Desenvolvedor Backend** apaixonado por **.NET** e Bancos de Dados **SQL**. Ao longo da minha jornada, venho desenvolvendo soluções eficientes, com ênfase na performance e escalabilidade.
 
-<div style="text-align: center; margin-bottom: 20px;">
+<div style="text-align: center;">
     <a href="https://www.linkedin.com/in/washington-lopes/">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -12,6 +12,8 @@ Sou **Washington Lopes**, um **Desenvolvedor Backend** apaixonado por **.NET** e
         <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </div>
+
+#
 
 > "O trabalho árduo vence o talento quando o talento não trabalha duro."  
 > _– Kevin Durant_
@@ -48,7 +50,7 @@ Sou **Washington Lopes**, um **Desenvolvedor Backend** apaixonado por **.NET** e
 
 ## Estatísticas GitHub
 
-<div style="text-align: center; margin-bottom: 10px;">
+<div style="text-align: center;">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=washingtonlopesss&theme=transparent" alt="GitHub Stats" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=washingtonlopesss&layout=compact&langs_count=8&card_width=320&theme=transparent" alt="Top Languages" />
 </div>
