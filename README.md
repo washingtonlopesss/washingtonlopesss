@@ -4,7 +4,7 @@
 
 Sou **Washington Lopes**, um **Desenvolvedor Backend** apaixonado por **.NET** e Bancos de Dados **SQL**. Ao longo da minha jornada, venho desenvolvendo soluções eficientes, com ênfase na performance e escalabilidade.
 
-<div style="text-align: center;">
+<div align="center">
     <a href="https://www.linkedin.com/in/washington-lopes/">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -36,7 +36,7 @@ Sou **Washington Lopes**, um **Desenvolvedor Backend** apaixonado por **.NET** e
 
 ## Tecnologias Favoritas
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular" alt="Angular" />
   <img src="https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL" />
@@ -50,7 +50,7 @@ Sou **Washington Lopes**, um **Desenvolvedor Backend** apaixonado por **.NET** e
 
 ## Estatísticas GitHub
 
-<div style="text-align: center;">
+<div align="center">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=washingtonlopesss&theme=transparent" alt="GitHub Stats" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=washingtonlopesss&layout=compact&langs_count=8&card_width=320&theme=transparent" alt="Top Languages" />
 </div>
