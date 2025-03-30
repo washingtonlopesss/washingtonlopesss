@@ -46,6 +46,6 @@ Sou **Washington Lopes**, um **Desenvolvedor Backend** apaixonado por **.NET** e
 ## Estatísticas GitHub
 
 <div align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=washingtonlopesss&theme=transparent" alt="GitHub Stats" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=washingtonlopesss&layout=compact&langs_count=8&card_width=320&theme=transparent" alt="Top Languages" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=washingtonlopesss&theme=transparent&count_private=true" alt="GitHub Stats" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=washingtonlopesss&layout=compact&langs_count=8&card_width=320&theme=transparent&count_private=true" alt="Top Languages" />
 </div>
