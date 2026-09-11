@@ -13,21 +13,6 @@ Sou **Washington Lopes**, um **Desenvolvedor Backend** apaixonado por **.NET** e
 > "O trabalho árduo vence o talento quando o talento não trabalha duro."  
 > _– Kevin Durant_
 
-## Formação
-
-- **Especialização em Arquitetura de Sistemas .NET** - [FIAP] - [Cursando]
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - [UNIP] - [Jan/2022 à Jan/2024]
-
-## Experiência
-
-- **Nelson Wilians Advogados** - Assistente de Sistemas  
-  - Responsável pela manutenção e otimização do sistema de gestão jurídica CPJ.
-  - Implementação de soluções em **.NET** e **MySQL**, focando em melhorias contínuas.
-
-- **Freelancer**  
-  - Desenvolvimento de Aplicações WEB.
-  - APIs REST personalizadas.
-  - Modelagem e Migração de Banco de Dados SQL.
 
 ## Tecnologias Favoritas
 
@@ -41,11 +26,4 @@ Sou **Washington Lopes**, um **Desenvolvedor Backend** apaixonado por **.NET** e
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" alt="AWS" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions" alt="GitHub Actions" />
-</div>
-
-## Estatísticas GitHub
-
-<div align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=washingtonlopesss&theme=transparent&count_private=true" alt="GitHub Stats" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=washingtonlopesss&layout=compact&langs_count=8&card_width=320&theme=transparent&count_private=true" alt="Top Languages" />
 </div>
